@@ -20,6 +20,7 @@
   "author": "shuanghan <1576520768@qq.com>",
   "license": "ISC",
   "homepage": "https://github.com/imow-frontend/create-ep-app",
+  "template": "imow-frontend/create-ep-app-template",
   "dependencies": {
     "cac": "^6.5.10",
     "chalk": "^4.1.0",
