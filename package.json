@@ -1,6 +1,6 @@
 {
   "name": "create-ep-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nuxt ssr project template generator",
   "bin": {
     "create-ep-app": "./lib/index.js"
